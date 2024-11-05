@@ -1,3 +1,0 @@
-____ floor 3
-____ floor 2
-____ floor 1

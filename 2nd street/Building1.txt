@@ -1,9 +1,0 @@
-____ floor 9
-____ floor 8
----- floor 7
-____ floor 6
-____ floor 5
-____ floor 4
-____ floor 3
-____ floor 2
-____ floor 1
